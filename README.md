@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, I'm Akshaya 👋🏼 👩🏽‍💻
 
-<!--
-**fairyaksh/fairyaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://raw.githubusercontent.com/fairyaksh/fairyaksh/master/SHAYA%20SATHEESH.gif)
 
-Here are some ideas to get you started:
 
+
+<!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- STORY:
+Who are you? What’s the first thing you want people to know about you?
+What were you doing before FAC?
+What led you to wanting to become a developer? 
+-->
+
+<!-- PASSION:
+What makes you get out of bed in the morning?
+What are you passionate about in tech?
+Are there examples of websites or apps out there that you wish you could be a part of building?
+-->
+
+<!-- AMBITION:
+What would your ideal first role be? Front-end, back-end, full stack? Small or large team?
+Is there anything important to you about the nature of the organisation or working environment?
+What would your ideal role be in 2, 5, 10 years? i.e. why are you doing FAC?
 -->

@@ -1,7 +1,9 @@
 ### Hi, I'm Akshaya 👋🏼 👩🏽‍💻
-
+ ![](https://img.shields.io/badge/-HTML-orange)
+ ![](https://img.shields.io/badge/-CSS-red)
+ ![](https://img.shields.io/badge/-JavaScript-yellow)
+ 
 ![](https://raw.githubusercontent.com/fairyaksh/fairyaksh/master/SHAYA%20SATHEESH.gif)
-
 
 
 <!-- Here are some ideas to get you started:
